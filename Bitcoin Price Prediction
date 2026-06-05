@@ -1,0 +1,26 @@
+# Bitcoin Price Prediction
+
+## Objective
+To predict Bitcoin price trends using historical market data and machine learning / time series models.
+
+## Problem Statement
+Cryptocurrency prices are highly volatile, making prediction important for investors and analysts.
+
+## Tools Used
+- Python
+- Pandas, NumPy
+- Scikit-learn / LSTM / ARIMA
+- Power BI
+
+## Workflow
+- Data collection and preprocessing
+- Feature engineering
+- Model building
+- Forecasting
+
+## Output
+- Predicted Bitcoin price trends
+- Visual comparison of actual vs predicted values
+
+## Author
+Pavan Lade
